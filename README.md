@@ -1,11 +1,12 @@
 # Hey, I'm Mikael 👋
 
-**Software Engineer** by trade. **Pilot** by passion. Building things that make people's lives simpler.
+**iOS Developer** with 5+ years building mobile apps. **Pilot**. **Eagle Scout**. Building things that make people's lives simpler.
 
-I run [Weiss Solutions LLC](https://weisssolutions.org) — a software consultancy where I help companies ship products that actually work.
+I run [Weiss Solutions LLC](https://weisssolutions.org) — shipped 5+ iOS apps with 1,500+ downloads. Currently studying CS at BYU-Idaho (3.9 GPA) while leading the Mobile Computing Society.
 
 <p align="center">
   <a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/></a>
+  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://elixir-lang.org/"><img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
@@ -17,25 +18,30 @@ I run [Weiss Solutions LLC](https://weisssolutions.org) — a software consultan
 
 ---
 
-### 🛠️ Professional Experience
+### 🛠️ Experience
 
-**Founder & Lead Developer** @ [Weiss Solutions LLC](https://weisssolutions.org) *(Jul 2024 – Present)*
+**Lead Developer** @ OpSync Services *(Mar 2025 – Nov 2025)*
+- Built iOS & Android app for pest control technicians with AI chatbot and voice-to-voice role-play
+- Solved complex PCM audio streaming for real-time OpenAI TTS integration
+- Led remote team of 3, established CI/CD with Xcode Cloud
 
-**CTO** @ OpSync Services *(Feb 2025 – Oct 2025)*
-- Led development of iOS app and FastAPI backend for AI-powered sales training platform
-- First developer → built and led the engineering team
+**iOS Developer Intern** @ FamilySearch *(Jan 2025 – Apr 2025)*
+- Modernized 10,000+ lines to async/await, fixing 100+ bugs
+- Enhanced WCAG accessibility affecting thousands of daily users
+
+**Founder & Lead Developer** @ [Weiss Solutions LLC](https://weisssolutions.org) *(Oct 2023 – Present)*
+- Launched 5+ iOS apps following clean architecture patterns
+- Built Strive Planner: 1,000+ downloads, 5★ rating
 
 **iOS App Developer** @ Bryce Labs *(Jul 2024 – Jul 2025)*
 
-**Production Leadership Intern** @ Taylor Corporation *(Sep 2024 – Dec 2024)*
-
 **iOS App Developer** @ High Country Living *(Oct 2023 – Jun 2024)*
-- Built [Sherpa](https://apps.apple.com/us/app/sherpa-your-everday-guide/id6474707966) — productivity app with 5.0★ rating
+- Built [Sherpa](https://apps.apple.com/us/app/sherpa-your-everday-guide/id6474707966) — 5.0★ productivity app
 
-**iOS Developer** @ Elements Financial
-- Contributed to the [Elements App](https://apps.apple.com/us/app/elements-app/id1475518768) — financial planning platform with 4.6★ rating
+**iOS App Developer** @ Elements Financial *(Aug 2020 – Jun 2021)*
+- Contributed to the [Elements App](https://apps.apple.com/us/app/elements-app/id1475518768) — 4.6★, started as unpaid intern → ended as contractor
 
-**Previous:** FamilySearch, Pastimes
+**iOS App Developer** @ Pastimes *(May 2021 – Jun 2021)*
 
 ---
 
@@ -43,7 +49,7 @@ I run [Weiss Solutions LLC](https://weisssolutions.org) — a software consultan
 
 | Project | What it does | Links |
 |---------|--------------|-------|
-| **Strive** | Task planning app built for the RMS productivity system | [Website](https://striveplanner.org) · [App Store](https://apps.apple.com/us/app/strive-planner-for-rms/id6472100413) |
+| **Strive** | Calendar app with iCal recurrence, goal tracking — "intentionality over productivity" | [Website](https://striveplanner.org) · [App Store](https://apps.apple.com/us/app/strive-planner-for-rms/id6472100413) |
 | **Sherpa** | Your everyday guide to remember what matters | [App Store](https://apps.apple.com/us/app/sherpa-your-everday-guide/id6474707966) |
 | **Open Chat** | Cross-platform AI chat client with multi-provider support | [GitHub](https://github.com/mikaelweiss/openchat) |
 | **Elements** | Financial planning system for advisors and clients | [App Store](https://apps.apple.com/us/app/elements-app/id1475518768) |
@@ -52,11 +58,10 @@ I run [Weiss Solutions LLC](https://weisssolutions.org) — a software consultan
 
 ### 🧪 Side Quests
 
-When I'm not shipping products, I like building weird things:
-
 - **[Spectre](https://github.com/mikaelweiss/spectre)** — Spec-driven development plugin for Claude Code
 - **[Parfait](https://github.com/mikaelweiss/parfait)** — A programming language I'm building (with its own [LSP in Rust](https://github.com/mikaelweiss/parfait-lsp))
-- **[dotfiles](https://github.com/mikaelweiss/dotfiles)** — My dev environment, if you're into that sort of thing
+- **[dotfiles](https://github.com/mikaelweiss/dotfiles)** — Neovim setup, if you're into that sort of thing
+- Co-hosted [Utah Winter Open 2018](https://www.worldcubeassociation.org/competitions/UtahWinterOpen2018) — yeah, I speedcube
 
 ---
 
@@ -87,5 +92,5 @@ When I'm not shipping products, I like building weird things:
 </p>
 
 <p align="center">
-  <i>Currently based in Rexburg, Idaho. Open to interesting opportunities.</i>
+  <i>Rexburg, Idaho · Open to interesting opportunities</i>
 </p>
