@@ -20,7 +20,7 @@ iOS developer with 5+ years of experience. Pilot. Eagle Scout. I run [Weiss Solu
 | **Strive** | Calendar app with iCal recurrence, goal tracking — "intentionality over productivity" | [Website](https://striveplanner.org) · [App Store](https://apps.apple.com/us/app/strive-planner-for-rms/id6472100413) |
 | **Sherpa** | Your everyday guide to remember what matters | [App Store](https://apps.apple.com/us/app/sherpa-your-everday-guide/id6474707966) |
 | **Open Chat** | Cross-platform AI chat client with multi-provider support | [Website](https://openchat.weisssolutions.org) · [GitHub](https://github.com/mikaelweiss/openchat) |
-| **OpSync** | AI training platform for teams with voice role-play | [App Store](https://apps.apple.com/us/app/opsync/id6743721267) |
+| **OpSync** | AI training platform for teams with voice role-play | [Website](https://opsyncservices.com) · [App Store](https://apps.apple.com/us/app/opsync/id6743721267) |
 
 ---
 
