@@ -68,15 +68,11 @@ I run [Weiss Solutions LLC](https://weisssolutions.org) — shipped 5+ iOS apps 
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikaelweiss&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mikaelweiss&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelweiss&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaelweiss&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikaelweiss&theme=transparent" alt="GitHub Activity" />
 </p>
 
 ---
