@@ -1,6 +1,6 @@
 # Hey, I'm Mikael 👋
 
-iOS developer with 5+ years of experience. Pilot. Eagle Scout. I run [Weiss Solutions LLC](https://weisssolutions.org) — shipped 5+ apps with 1,500+ downloads.
+I like building things. iOS developer with 5+ years of experience. Pilot. Eagle Scout. I run [Weiss Solutions LLC](https://weisssolutions.org) — shipped 5+ apps with 1,500+ downloads.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
@@ -24,12 +24,10 @@ iOS developer with 5+ years of experience. Pilot. Eagle Scout. I run [Weiss Solu
 
 ---
 
-### 🧪 Side Quests
-
-- **[Spectre](https://github.com/mikaelweiss/spectre)** — Spec-driven development plugin for Claude Code
-- **[Parfait](https://github.com/mikaelweiss/parfait)** — A programming language I'm building (with its own [LSP in Rust](https://github.com/mikaelweiss/parfait-lsp))
-- **[dotfiles](https://github.com/mikaelweiss/dotfiles)** — Neovim setup, if you're into that sort of thing
-- Co-hosted [Utah Winter Open 2018](https://www.worldcubeassociation.org/competitions/UtahWinterOpen2018) — yeah, I speedcube
+### 🧪 Alpha projects
+- **[Sparrow](https://github.com/mikaelweiss/sparrow)** - SwiftUI for Web
+- **River Finance** - Don't worry, this isn't YABA (yet another budgeting app). This one's legit
+- Hosted [Utah Winter Open 2018](https://www.worldcubeassociation.org/competitions/UtahWinterOpen2018) — 3x3 PB of 12.9 - BLD PB of DNF
 
 ---
 
@@ -41,4 +39,9 @@ iOS developer with 5+ years of experience. Pilot. Eagle Scout. I run [Weiss Solu
   <a href="https://twitter.com/MikaelWeis2790">twitter</a>
 </p>
 
-<p align="center"><i>Rexburg, Idaho · Open to interesting opportunities</i></p>
+<p align="center"><i>Rexburg, Idaho · I like building things</i></p>
+
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats-steel-ten-56.vercel.app/api?username=mikaelweiss&rank_icon=github&include_all_commits=true&hide_rank=true" />
+  <img height=195 align="center" src="https://github-readme-stats-steel-ten-56.vercel.app/api/top-langs/?username=mikaelweiss&layout=compact&langs_count=10" alt="top-languages" />
+</div>
