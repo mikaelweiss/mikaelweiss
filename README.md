@@ -44,6 +44,6 @@ I like building things. iOS developer with 5+ years of experience. Pilot. Eagle 
 <p align="center"><i>Rexburg, Idaho · I like building things</i></p>
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats-steel-ten-56.vercel.app/api?username=mikaelweiss&rank_icon=github&include_all_commits=true&hide_rank=true" />
-  <img height=195 align="center" src="https://github-readme-stats-steel-ten-56.vercel.app/api/top-langs/?username=mikaelweiss&layout=compact&langs_count=10" alt="top-languages" />
+  <img src="https://streak-stats.demolab.com?user=mikaelweiss" alt="GitHub Streak" />
+  <img height=195 src="https://github-readme-stats-steel-ten-56.vercel.app/api/top-langs/?username=mikaelweiss&layout=compact&langs_count=10" alt="top-languages" />
 </div>
