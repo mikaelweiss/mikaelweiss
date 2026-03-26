@@ -27,6 +27,8 @@ I like building things. iOS developer with 5+ years of experience. Pilot. Eagle 
 ### 🧪 Alpha projects
 - **[Sparrow](https://github.com/mikaelweiss/sparrow)** - SwiftUI for Web
 - **River Finance** - Don't worry, this isn't YABA (yet another budgeting app). This one's legit
+
+### Other Hobbies
 - Hosted [Utah Winter Open 2018](https://www.worldcubeassociation.org/competitions/UtahWinterOpen2018) — 3x3 PB of 12.9 - BLD PB of DNF
 
 ---
